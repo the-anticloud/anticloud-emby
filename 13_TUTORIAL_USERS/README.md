@@ -1,0 +1,6 @@
+# 13 Tutorial Users
+
+**Project:** EMBY
+**Upstream:** https://github.com/MediaBrowser/Emby
+
+Content specific to EMBY in category SOCIAL_MEDIA.
