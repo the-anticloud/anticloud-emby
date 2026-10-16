@@ -2,9 +2,7 @@
 
 > Emby Server Emby Server is a personal media server with apps on just about every device.
 
-**Category:** SOCIAL_MEDIA · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/bpking1/embyExternalUrl · **Pinned commit:** `91798cc2ce5e14646c6b939b9f5d1d8d137541e9` · **Vendor:** Anticloud FZ LLE
-
-> **Note:** this package vendors `https://github.com/bpking1/embyExternalUrl` as the implementation for the `EMBY` slot. The vendored repository name differs from the package name; the pin above is the exact commit vendored here.
+**Category:** SOCIAL_MEDIA · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/MediaBrowser/Emby · **Pinned commit:** `1d7c2ab4bfebdae31f89fdaabd3b68782ccf495a` · **Vendor:** Anticloud FZ LLE
 
 ## What This Project Is
 
@@ -62,7 +60,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-235cc691d76d22c9b8e10cf516708c213b97b8e9045a4295e3f802b922906488
+90c1050add61c3f0c31df3cee2c8111b8acbe0151f385239422cd173dee5ab14
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.

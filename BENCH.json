@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "91798cc2ce5e14646c6b939b9f5d1d8d137541e9",
-   "url": "https://github.com/bpking1/embyExternalUrl",
-   "branch": "main",
-   "sha_verified_from": "GitHub API commits/main | unified 2026-10-14 (API-exists + content/clone anchor)"
+   "url": "https://github.com/MediaBrowser/Emby",
+   "head": "1d7c2ab4bfebdae31f89fdaabd3b68782ccf495a",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/bpking1/embyExternalUrl"
   }
  }
 }
