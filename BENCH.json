@@ -543,7 +543,7 @@
    "url": "https://github.com/MediaBrowser/Emby",
    "head": "1d7c2ab4bfebdae31f89fdaabd3b68782ccf495a",
    "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
-   "previous_substitute": "https://github.com/bpking1/embyExternalUrl"
+   "previous_substitute": "https://github.com/MediaBrowser/Emby"
   }
  }
 }
